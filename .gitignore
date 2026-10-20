@@ -1,0 +1,24 @@
+# .NET 编译生成的文件
+bin/
+obj/
+
+# VS Code 本地配置
+.vs/
+.vscode/
+
+# 用户个人配置
+*.user
+*.suo
+
+# SQLite 本地数据库文件
+*.db
+*.db-shm
+*.db-wal
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 环境变量和本地机密配置
+.env
+appsettings.Local.json
