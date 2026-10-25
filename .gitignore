@@ -22,3 +22,6 @@ obj/
 # 环境变量和本地机密配置
 .env
 appsettings.Local.json
+
+# 参考资料文档
+referenceDocs
